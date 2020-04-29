@@ -5,20 +5,20 @@ A new Flutter project.
 ## Covered Topics 
 
  - Asstes Image 
- Custom Fonts 
- Remove BebugBanner
- Card Widget
- Padding Widget
- Column Widget
- Icon Widget 
- Divider Widget
- SizeBox Widegt
- CircularAvatar Widget 
- Text Widegt 
- backgraound-color Property 
- style Property 
- color Property
- etc.......
+ - Custom Fonts 
+ - Remove BebugBanner
+ - Card Widget
+ - Padding Widget
+ - Column Widget
+ - Icon Widget 
+ - Divider Widget
+ - SizeBox Widegt
+ - CircularAvatar Widget 
+ - Text Widegt 
+ -- backgraound-color Property 
+ -- style Property 
+ --color Property
+ -etc.......
  
  
 
