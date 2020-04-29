@@ -5,6 +5,11 @@ A new Flutter project.
 ## Covered Topics 
 
  - Asstes Image 
+ - Stateless Widget
+ - Scaffold 
+ - SafeArea 
+ - Container
+ - MaterialApp 
  - Custom Fonts 
  - Remove BebugBanner
  - Card Widget
@@ -15,10 +20,10 @@ A new Flutter project.
  - SizeBox Widegt
  - CircularAvatar Widget 
  - Text Widegt 
- -- backgraound-color Property 
- -- style Property 
- --color Property
- -etc.......
+ - backgraound-color Property 
+ - style Property 
+ - color Property
+ - etc.......
  
  
 
