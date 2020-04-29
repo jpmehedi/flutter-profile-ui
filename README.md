@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Covered Topics 
 
- Asstes Image 
+ - Asstes Image 
  Custom Fonts 
  Remove BebugBanner
  Card Widget
